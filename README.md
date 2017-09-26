@@ -1,2 +1,2 @@
 # deep-dive-euclid
-euclids program using GCD(a_b_)
+euclids program using GCD(a-b)
